@@ -1,0 +1,6 @@
+{
+  "Name": "Persona 5 (June 2014)",
+  "ShortName": "p5o",
+  "FlowScriptModulesPath": "Persona5June2014\\FlowScriptModules.json",
+  "MessageScriptLibraryPath": "Persona5June2014\\MessageScriptLibrary.json"
+}

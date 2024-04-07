@@ -1,0 +1,265 @@
+[
+  {
+    "Index": "0x4000",
+    "ReturnType": "void",
+    "Name": "CALL_WEAPON_SHOP",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4001",
+    "ReturnType": "void",
+    "Name": "CALL_ITEM_SHOP",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4002",
+    "ReturnType": "void",
+    "Name": "CALL_COMBINE_SHOP",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4003",
+    "ReturnType": "void",
+    "Name": "CALL_QUEST_DAYTIME",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4004",
+    "ReturnType": "void",
+    "Name": "SET_QUEST_BEFORE_DUNGEON",
+    "Description": "Null function pointer.",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4005",
+    "ReturnType": "void",
+    "Name": "RESET_QUEST_AFTER_DUNGEON",
+    "Description": "Null function pointer.",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4006",
+    "ReturnType": "void",
+    "Name": "CHECK_CONSET_QUEST",
+    "Description": "Null function pointer.",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4007",
+    "ReturnType": "void",
+    "Name": "START_QUEST_CLEAR_EFFECT",
+    "Description": "Null function pointer.",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4008",
+    "ReturnType": "void",
+    "Name": "CHECK_QUEST_CLEAR_ENEMY",
+    "Description": "Null function pointer.",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4009",
+    "ReturnType": "void",
+    "Name": "CHECK_QUEST_CLEAR_BOSS",
+    "Description": "Null function pointer.",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x400a",
+    "ReturnType": "void",
+    "Name": "CHECK_QUEST_CLEAR_ITEM",
+    "Description": "Null function pointer.",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x400b",
+    "ReturnType": "int",
+    "Name": "GET_COMB_MATPER_MAJOR",
+    "Description": "",
+    "Parameters": [
+      {
+        "Type": "int",
+        "Name": "param1",
+        "Description": "Unknown type; assumed int."
+      }
+    ]
+  },
+  {
+    "Index": "0x400c",
+    "ReturnType": "int",
+    "Name": "GET_COMB_MATPER_MINOR",
+    "Description": "",
+    "Parameters": [
+      {
+        "Type": "int",
+        "Name": "param1",
+        "Description": "Unknown type; assumed int."
+      }
+    ]
+  },
+  {
+    "Index": "0x400d",
+    "ReturnType": "int",
+    "Name": "GET_COMB_RETPER_MAJOR",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x400e",
+    "ReturnType": "int",
+    "Name": "GET_COMB_RETPER_MINOR",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x400f",
+    "ReturnType": "void",
+    "Name": "CALL_NAME_ENTRY",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4010",
+    "ReturnType": "void",
+    "Name": "FCL_SHOP_CHANGE_FLAG",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4011",
+    "ReturnType": "void",
+    "Name": "UI_MISSION_OFFER",
+    "Description": "",
+    "Parameters": [
+      {
+        "Type": "int",
+        "Name": "param1",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "Index": "0x4012",
+    "ReturnType": "void",
+    "Name": "UI_MISSION_END",
+    "Description": "",
+    "Parameters": [
+      {
+        "Type": "int",
+        "Name": "param1",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "Index": "0x4013",
+    "ReturnType": "int",
+    "Name": "UI_MISSION_CHECK_OFFER",
+    "Description": "",
+    "Parameters": [
+      {
+        "Type": "int",
+        "Name": "param1",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "Index": "0x4014",
+    "ReturnType": "int",
+    "Name": "UI_MISSION_CHECK_END",
+    "Description": "",
+    "Parameters": [
+      {
+        "Type": "int",
+        "Name": "param1",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "Index": "0x4015",
+    "ReturnType": "void",
+    "Name": "MISSION_START_EFFECT",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4016",
+    "ReturnType": "void",
+    "Name": "MISSION_COMPLETE_EFFECT",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4017",
+    "ReturnType": "void",
+    "Name": "CALL_ROUTE_MAP",
+    "Description": "Null function pointer.",
+    "Parameters": [
+      {
+        "Type": "int",
+        "Name": "param1",
+        "Description": "Unknown type; assumed int."
+      },
+      {
+        "Type": "int",
+        "Name": "param2",
+        "Description": "Unknown type; assumed int."
+      },
+      {
+        "Type": "int",
+        "Name": "param3",
+        "Description": "Unknown type; assumed int."
+      },
+      {
+        "Type": "int",
+        "Name": "param4",
+        "Description": "Unknown type; assumed int."
+      },
+      {
+        "Type": "int",
+        "Name": "param5",
+        "Description": "Unknown type; assumed int."
+      }
+    ]
+  },
+  {
+    "Index": "0x4018",
+    "ReturnType": "void",
+    "Name": "CALL_ITEM_SHOP_EX",
+    "Description": "",
+    "Parameters": [
+    ]
+  },
+  {
+    "Index": "0x4019",
+    "ReturnType": "void",
+    "Name": "CALL_WEAPON_SHOP_EX",
+    "Description": "",
+    "Parameters": [
+    ]
+  }
+]

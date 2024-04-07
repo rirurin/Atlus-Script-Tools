@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Common",
+    "ShortName": "Common",
+    "Description": "Non-domain specific commonly used functions.",
+    "ConstantsPath": "",
+    "EnumsPath": "",
+    "FunctionsPath": "Persona5June2014\\Modules\\Common\\Functions.json"
+  },
+  {
+    "Name": "Field",
+    "ShortName": "Field",
+    "Description": "Field related functions.",
+    "ConstantsPath": "",
+    "EnumsPath": "",
+    "FunctionsPath": "Persona5June2014\\Modules\\Field\\Functions.json"
+  },
+  {
+    "Name": "AI",
+    "ShortName": "AI",
+    "Description": "AI related functions.",
+    "ConstantsPath": "",
+    "EnumsPath": "",
+    "FunctionsPath": "Persona5June2014\\Modules\\AI\\Functions.json"
+  },
+  {
+    "Name": "Social event",
+    "ShortName": "Social",
+    "Description": "Social event related functions.",
+    "ConstantsPath": "",
+    "EnumsPath": "",
+    "FunctionsPath": "Persona5June2014\\Modules\\Social\\Functions.json"
+  },
+  {
+    "Name": "Facility",
+    "ShortName": "Facility",
+    "Description": "Facility related functions.",
+    "ConstantsPath": "",
+    "EnumsPath": "",
+    "FunctionsPath": "Persona5June2014\\Modules\\Facility\\Functions.json"
+  }
+]
